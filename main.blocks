@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="RLD/P{ztwZCN]LUmCoi)" x="0" y="0"></block><block type="music_set_built_in_speaker_enable" id="k:1jG(NlG!(/HHktD=5S" disabled="true" x="73" y="98"><value name="enabled"><shadow type="toggleOnOff" id="]SNey.pjJPQbedoZe-f(" disabled="true"><field name="on">true</field></shadow></value></block><block type="device_build_big_image" id="y$|lvn;!P?dw$Y+bFq,C" disabled="true" x="429" y="330"><field name="LEDS">`
+        # # # # # # # # # # 
+        # # # # # # # # # # 
+        # # # # # # # # # # 
+        # # # # # # # # # # 
+        # # # # # # # # # #
+        `</field></block><block type="device_forever" id=".`CyD^QD+`BN66UroF|9" x="223" y="674"><statement name="HANDLER"><block type="scrollbit_scroll_text" id="1*j`Ng6EqGN^#Ja!sL9U"><value name="text"><shadow type="text" id="+XH+z3E3`f1Y.`MSG`p^"><field name="TEXT">Kitada</field></shadow></value><value name="brightness"><shadow type="math_number_minmax" id="W?d!z:.5_Sjn{_o;[K|x"><mutation min="0" max="255" label="Brightness" precision="0"></mutation><field name="SLIDER">128</field></shadow></value><value name="delay"><shadow type="math_number_minmax" id="1C?H(F*RhjRzK9,UGJH."><mutation min="0" max="100" label="Delay" precision="0"></mutation><field name="SLIDER">50</field></shadow></value></block></statement></block></xml>
